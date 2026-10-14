@@ -6,5 +6,4 @@ Página web de apresentação pessoal contendo resumo profissional, competência
 ## 🛠️ Tecnologias Utilizadas
 - Python
 
-## 🔗 Links
-- [Acessar a Página](https://YanMarques1.github.io/BootCamp_I_ADS/01-apresentacao/)
+
